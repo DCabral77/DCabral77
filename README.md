@@ -29,7 +29,7 @@
   
   <div align="center">
 <br><p align="centre"><b>Nomades Passantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{sfarinas}/count.svg?text_color=0293E8" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{DCabral77}/count.svg?text_color=0293E8" /></p> 
 <br>
 </div>
 
